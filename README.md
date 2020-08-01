@@ -11,6 +11,7 @@ The importance of using real data in teaching data science and statistics is und
 *Kelly Nicole Bodwin (California Polytechnic State University)*
 
 <details>
+<summary>More info</summary>
 A classic introductory statistics class typically covers, one by one, a suite of basic statistical tests. In this talk, I argue for an “inside-out” approach to introductory statistics, in which evidence-based reasoning is the focal point rather than specific procedures. I will share my experiences in teaching a 10-week Introductory Statistics course, of which the first 5 weeks of material did not touch upon any formal statistical tests. I offer for discussion three conceptual colloquialisms on which the course was built: “Imaginary Results”, “Expectations vs. Reality”, and “Are You Convinced?” In addition, I will share how creative coding tasks were incorporated into the course to promote conceptual understanding.
 
 <br>
@@ -24,6 +25,7 @@ Bio: Kelly's bio
 *Maria Tackett (Duke University)*
 
 <details>
+<summary>More info</summary>
 In this talk, we discuss a learning module about missing data using the United States Census. The Census is a massive data collection project conducted every ten years to obtain a snapshot of the people who live in the country. There are groups of people, however, who are regularly undercounted and thus underrepresented in the data. Because data from the Census is used for important functions such as apportioning seats in the U.S. House of Representatives, it is important to understand the limitations of the data and the potential societal implications. Two models, the Demographic Analysis (DA) and the Dual-Systems Estimates (DSE), have been developed to measure undercounts in the Census. We will discuss a lesson for an undergraduate regression analysis course where students examine the effectiveness of these models and develop their own using publicly available data. We describe the learning outcomes from this module and how they connect to the data analysis cycle presented in R for Data Science. We conclude with the potential challenges and strategies for implementing this lesson in a course.
 
 <br>
@@ -37,6 +39,7 @@ Bio: Maria's bio
 *Johanna Hardin (Pomona College)*
 
 <details>
+<summary>More info</summary>
 Publicly available data from the Stanford Computational Policy Lab on racial profiling in "stop data" (the information gathered when police officers make discretionary stops) is used for a lab that can be modified to fit a variety of levels for a statistics or data science classroom. We work though the Policy Lab's published report as well as providing ideas for new statistical insight into the data. The Policy Lab has compiled datasets from state patrol reports of most states as well as local police stop data in dozens of cities. The data will be downloaded directly from the Policy Lab's repository, and through complete analyses, students are required to model, visualize, and communicate their results effectively.
 
 <br>
@@ -51,6 +54,7 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 *Jenny Bryan (RStudio)*
 
 <details>
+<summary>More info</summary>
 Bio: Jenny's bio
 </details>
 
