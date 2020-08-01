@@ -46,7 +46,9 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 </details>
 
 <br>
-### *Jenny Bryan (RStudio)* (Discussion)
+### Discussion
+
+*Jenny Bryan (RStudio)*
 
 <details>
 Bio: Jenny's bio
