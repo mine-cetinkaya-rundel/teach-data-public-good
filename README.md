@@ -7,10 +7,7 @@ Wed, 8/5/2020
 
 The importance of using real data in teaching data science and statistics is undeniable. Using real data also presents an opportunity for us educators to bring significant questions with social implications into the classroom. However finding real datasets that map on to specific topics, concepts, and learning goals is not always easy. Each of the speakers in this session will present a case study they use in their teaching that features a “data for the public good” element and covers specific phases of the data analysis cycle, including data import, tidy, transform, visualize, model, and communicate, followed by a discussion on teaching with not only real, but also relatable and significant data and the technical and pedagogical challenges associated with this goal will follow. Materials from the session will be made available as a public repository for others to easily adapt to their classrooms. 
 
-[This session](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219247) was organised by Mine Çetinkaya-Rundel (University of Edinburgh, RStudio, Duke University) and sponsored by the Section on Statistics and Data Science Education and the International Association for Statistical Education.
-
-## Talks & speakers
-
+<br>
 ### Inside-Out Statistics: Teaching Evidence-Based Reasoning in Introductory Courses
  
 *Kelly Nicole Bodwin (California Polytechnic State University)*
@@ -23,6 +20,7 @@ A classic introductory statistics class typically covers, one by one, a suite of
 Bio: Kelly's bio
 </details>
 
+<br>
 ### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-hardin/tackett-jsm-DRAFT.pdf)
 
 *Maria Tackett (Duke University)*
@@ -35,6 +33,7 @@ In this talk, we discuss a learning module about missing data using the United S
 Bio: Maria's bio
 </details>
 
+<br>
 ### Difficult Dialogues: Communicating Data Analyses Effectively [[Slides]](03-hardin/JSM_policing.html)
 
 *Johanna Hardin (Pomona College)*
@@ -48,10 +47,13 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 
 </details>
 
+<br>
 ### *Jenny Bryan (RStudio)* (Discussion)
 
 <details>
 Bio: Jenny's bio
 </details>
 
+<br><br>
 
+[This session](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219247) was organised by Mine Çetinkaya-Rundel (University of Edinburgh, RStudio, Duke University) and sponsored by the Section on Statistics and Data Science Education and the International Association for Statistical Education.
