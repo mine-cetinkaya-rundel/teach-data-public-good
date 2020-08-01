@@ -26,9 +26,12 @@ In this talk, we discuss a learning module about missing data using the United S
 
 *Johanna Hardin (Pomona College)*
 
+<details>
 Publicly available data from the Stanford Computational Policy Lab on racial profiling in "stop data" (the information gathered when police officers make discretionary stops) is used for a lab that can be modified to fit a variety of levels for a statistics or data science classroom. We work though the Policy Lab's published report as well as providing ideas for new statistical insight into the data. The Policy Lab has compiled datasets from state patrol reports of most states as well as local police stop data in dozens of cities. The data will be downloaded directly from the Policy Lab's repository, and through complete analyses, students are required to model, visualize, and communicate their results effectively.
 
 Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
+
+</details>
 
 ## Discussion
 
