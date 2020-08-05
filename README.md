@@ -20,6 +20,7 @@ Bio: Kelly's bio
 </details>
 
 <br>
+
 ### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-tackett/tackett-jsm-2020.pdf)
 
 *Maria Tackett (Duke University)*
@@ -34,6 +35,7 @@ Bio: Maria Tackett is an Assistant Professor of the Practice in the Department o
 
 
 <br>
+
 ### Difficult Dialogues: Communicating Data Analyses Effectively [[Slides]](03-hardin/JSM_policing.html)
 
 *Johanna Hardin (Pomona College)*
@@ -49,6 +51,7 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 </details>
 
 <br>
+
 ### Discussion
 
 *Jenny Bryan (RStudio)*
