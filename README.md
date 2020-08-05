@@ -37,7 +37,7 @@ Publicly available data from the Stanford Computational Policy Lab on racial pro
 
 [Jo Hardin](https://research.pomona.edu/johardin/) is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
 
-### [[Discussion]](https://github.com/mine-cetinkaya-rundel/teach-data-public-good/tree/master/04-bryan)
+### [Discussion](04-bryan)
 
 *[Jenny Bryan](https://jennybryan.org/) (RStudio)*
 
