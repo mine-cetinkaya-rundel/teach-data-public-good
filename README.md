@@ -20,7 +20,7 @@ Bio: Kelly's bio
 </details>
 
 <br>
-### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-tackett/tackett-jsm-DRAFT.pdf)
+### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-tackett/tackett-jsm-2020.pdf)
 
 *Maria Tackett (Duke University)*
 
@@ -30,10 +30,11 @@ In this talk, we discuss a learning module about missing data using the United S
 
 <br>
 
-Bio: Maria's bio
-</details>
+Bio: Maria Tackett is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
+
 
 <br>
+
 ### Difficult Dialogues: Communicating Data Analyses Effectively [[Slides]](03-hardin/JSM_policing.html)
 
 *Johanna Hardin (Pomona College)*
@@ -49,6 +50,7 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 </details>
 
 <br>
+
 ### Discussion
 
 *Jenny Bryan (RStudio)*
