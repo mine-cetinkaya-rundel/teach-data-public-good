@@ -41,7 +41,7 @@ Publicly available data from the Stanford Computational Policy Lab on racial pro
 
 *[Jenny Bryan](https://jennybryan.org/) (RStudio)*
 
-Jenny Bryan is a software engineer at RStudio. As part of the tidyverse ream, she develops open source packages to make data science faster, easier, and more fun. She is also the founder of the Master of Data Science Program at University of British Columbia where she is now an adjunct professor.
+Jenny Bryan is a software engineer at RStudio. As part of the tidyverse team, she develops open source packages to make data science faster, easier, and more fun. She is also the founder of the Master of Data Science Program at University of British Columbia where she is now an adjunct professor.
 
 <br><br>
 
