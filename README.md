@@ -20,7 +20,7 @@ Bio: Kelly's bio
 </details>
 
 <br>
-### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-hardin/tackett-jsm-DRAFT.pdf)
+### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-tackett/tackett-jsm-DRAFT.pdf)
 
 *Maria Tackett (Duke University)*
 
