@@ -4,25 +4,28 @@ Wed, 8/5/2020
 1:00 PM - 2:50 PM ET  
 [bit.ly/jsm2020-teach](http://bit.ly/jsm2020-teach)  
 
+<details>
+<summary>Session info</summary>
 The importance of using real data in teaching data science and statistics is undeniable. Using real data also presents an opportunity for us educators to bring significant questions with social implications into the classroom. However finding real datasets that map on to specific topics, concepts, and learning goals is not always easy. Each of the speakers in this session will present a case study they use in their teaching that features a “data for the public good” element and covers specific phases of the data analysis cycle, including data import, tidy, transform, visualize, model, and communicate, followed by a discussion on teaching with not only real, but also relatable and significant data and the technical and pedagogical challenges associated with this goal will follow. Materials from the session will be made available as a public repository for others to easily adapt to their classrooms. 
+</details>
 
 ### Inside-Out Statistics: Teaching Evidence-Based Reasoning in Introductory Courses [[Slides]](01-bodwin/jsm_2020.html)
  
-*Kelly Nicole Bodwin (California Polytechnic State University)*
+*[Kelly Bodwin](https://www.kelly-bodwin.com/) (California Polytechnic State University)*
 
 <details>
 <summary>More info</summary>
-A classic introductory statistics class typically covers, one by one, a suite of basic statistical tests. In this talk, I argue for an “inside-out” approach to introductory statistics, in which evidence-based reasoning is the focal point rather than specific procedures. I will share my experiences in teaching a 10-week Introductory Statistics course, of which the first 5 weeks of material did not touch upon any formal statistical tests. I offer for discussion three conceptual colloquialisms on which the course was built: “Imaginary Results”, “Expectations vs. Reality”, and “Are You Convinced?” In addition, I will share how creative coding tasks were incorporated into the course to promote conceptual understanding.
+A classic introductory statistics class typically covers, one by one, a suite of basic statistical tests. In this talk, I argue for an “inside-out” approach to introductory statistics, in which evidence-based reasoning is the focal point rather than specific procedures. I will share my experiences in teaching a 10-week Introductory Statistics course, of which the first 5 weeks of material did not touch upon any formal statistical tests. I offer for discussion three conceptual colloquialisms on which the course was built: "Imaginary Results", "Expectations vs. Reality"", and "Are You Convinced?". In addition, I will share how creative coding tasks were incorporated into the course to promote conceptual understanding.
 
 <br>
 
-Bio: [Kelly Bodwin](https://www.kelly-bodwin.com/) is an Assistant Professor of Statistics at Cal Poly San Luis Obispo. She teaches statistics courses at a variety of levels, usually focused on or incorporating computing in R. Her current research interests are in developing R tools for education, applications in the the Digital Humanities, and methodologies for high-dimensional clustering.
+Bio: Kelly Bodwin is an Assistant Professor of Statistics at Cal Poly San Luis Obispo. She teaches statistics courses at a variety of levels, usually focused on or incorporating computing in R. Her current research interests are in developing R tools for education, applications in the the Digital Humanities, and methodologies for high-dimensional clustering.
 </details>
 
 <br>
 ### Who’s Underrepresented? Modeling Undercounts in the U.S. Census [[Slides]](02-tackett/tackett-jsm-2020.pdf)
 
-*Maria Tackett (Duke University)*
+*[Maria Tackett](https://www.mariatackett.net/) (Duke University)*
 
 <details>
 <summary>More info</summary>
@@ -30,14 +33,14 @@ In this talk, we discuss a learning module about missing data using the United S
 
 <br>
 
-Bio: [Maria Tackett](https://www.mariatackett.net/) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
+Bio: Maria Tackett is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
 </details>
 
 <br>
 
 ### Difficult Dialogues: Communicating Data Analyses Effectively [[Slides]](03-hardin/JSM_policing.html)
 
-*Johanna Hardin (Pomona College)*
+*[Jo Hardin](https://research.pomona.edu/johardin/) (Pomona College)*
 
 <details>
 <summary>More info</summary>
@@ -45,7 +48,7 @@ Publicly available data from the Stanford Computational Policy Lab on racial pro
 
 <br>
 
-Bio: [Jo Hardin](https://research.pomona.edu/johardin/) is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
+Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
 
 </details>
 
@@ -53,11 +56,11 @@ Bio: [Jo Hardin](https://research.pomona.edu/johardin/) is a statistician at Pom
 
 ### Discussion
 
-*Jenny Bryan (RStudio)*
+*[Jenny Bryan](https://jennybryan.org/) (RStudio)*
 
 <details>
 <summary>More info</summary>
-Bio: [Jenny Bryan](https://jennybryan.org/) is a software engineer at RStudio. As part of the tidyverse ream, she develops open source packages to make data science faster, easier, and more fun. She is also the founder of the Master of Data Science Program at University of British Columbia where she is now an adjunct professor.
+Bio: Jenny Bryan is a software engineer at RStudio. As part of the tidyverse ream, she develops open source packages to make data science faster, easier, and more fun. She is also the founder of the Master of Data Science Program at University of British Columbia where she is now an adjunct professor.
 
 </details>
 
