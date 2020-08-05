@@ -16,7 +16,7 @@ A classic introductory statistics class typically covers, one by one, a suite of
 
 <br>
 
-Bio: Kelly's bio
+Bio: [Kelly Bodwin](https://www.kelly-bodwin.com/) is an Assistant Professor of Statistics at Cal Poly San Luis Obispo. She teaches statistics courses at a variety of levels, usually focused on or incorporating computing in R. Her current research interests are in developing R tools for education, applications in the the Digital Humanities, and methodologies for high-dimensional clustering.
 </details>
 
 <br>
@@ -30,7 +30,7 @@ In this talk, we discuss a learning module about missing data using the United S
 
 <br>
 
-Bio: Maria Tackett is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
+Bio: [Maria Tackett](https://www.mariatackett.net/) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
 </details>
 
 <br>
@@ -45,7 +45,7 @@ Publicly available data from the Stanford Computational Policy Lab on racial pro
 
 <br>
 
-Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
+Bio: [Jo Hardin](https://research.pomona.edu/johardin/) is a statistician at Pomona College.  Her research focuses on applications to large biological datasets, and she is active in the statistics and data science education community.  This summer, she and her colleagues have put together a series of blogs about (teaching) ethics in data science at [teachdatascience.com](https://teachdatascience.com/).
 
 </details>
 
@@ -57,7 +57,8 @@ Bio: Jo Hardin is a statistician at Pomona College.  Her research focuses on ap
 
 <details>
 <summary>More info</summary>
-Bio: Jenny's bio
+Bio: [Jenny Bryan](https://jennybryan.org/) is a software engineer at RStudio. As part of the tidyverse ream, she develops open source packages to make data science faster, easier, and more fun. She is also the founder of the Master of Data Science Program at University of British Columbia where she is now an adjunct professor.
+
 </details>
 
 <br><br>
