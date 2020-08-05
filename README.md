@@ -6,7 +6,7 @@ Wed, 8/5/2020
 
 The importance of using real data in teaching data science and statistics is undeniable. Using real data also presents an opportunity for us educators to bring significant questions with social implications into the classroom. However finding real datasets that map on to specific topics, concepts, and learning goals is not always easy. Each of the speakers in this session will present a case study they use in their teaching that features a “data for the public good” element and covers specific phases of the data analysis cycle, including data import, tidy, transform, visualize, model, and communicate, followed by a discussion on teaching with not only real, but also relatable and significant data and the technical and pedagogical challenges associated with this goal will follow. Materials from the session will be made available as a public repository for others to easily adapt to their classrooms. 
 
-### Inside-Out Statistics: Teaching Evidence-Based Reasoning in Introductory Courses
+### Inside-Out Statistics: Teaching Evidence-Based Reasoning in Introductory Courses [[Slides]](01-bodwin/jsm_2020.html)
  
 *Kelly Nicole Bodwin (California Polytechnic State University)*
 
