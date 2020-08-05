@@ -31,7 +31,7 @@ In this talk, we discuss a learning module about missing data using the United S
 <br>
 
 Bio: Maria Tackett is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current research focuses on undersanding the factors that impact students' sense of community and self-efficacy in undergraduate math and statistics courses. Prior to coming to Duke in 2018, Maria earned a Ph.D. in Statistics from the University of Virginia and worked as a statistician in industry.  
-
+</details>
 
 <br>
 
